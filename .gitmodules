@@ -1,0 +1,6 @@
+[submodule "feereport"]
+	path = feereport
+	url = https://github.com/kristapsk/lightning-feereport
+[submodule "walletbalance"]
+	path = walletbalance
+	url = https://github.com/kristapsk/lightning-walletbalance
