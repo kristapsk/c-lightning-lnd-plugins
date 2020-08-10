@@ -4,3 +4,6 @@
 [submodule "walletbalance"]
 	path = walletbalance
 	url = https://github.com/kristapsk/lightning-walletbalance
+[submodule "channelbalance"]
+	path = channelbalance
+	url = https://github.com/kristapsk/lightning-channelbalance
