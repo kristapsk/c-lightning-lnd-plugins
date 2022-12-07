@@ -2,6 +2,8 @@
 
 [![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@kristapsk/F0918E)](https://tippin.me/@kristapsk)
 
+**I'm no longer maintainging this, use [cln-scripts](https://github.com/kristapsk/cln-scripts) instead!**
+
 This is a collection of some plugins for [c-lightning](https://github.com/ElementsProject/lightning) emulating some of the commands of [LND (lncli)](https://github.com/LightningNetwork/lnd).
 
 | name                                                                    | description                                                                      |
